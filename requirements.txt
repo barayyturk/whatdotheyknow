@@ -20,4 +20,3 @@ pytz==2025.2
 pywin32==310; platform_system=="Windows"
 six==1.17.0
 tzdata==2025.2
-
