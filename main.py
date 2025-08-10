@@ -1,3 +1,6 @@
+"""
+Discord Bot for WhatDoTheyKnow FOI Search and Flask Uptime Monitoring
+"""
 
 import os
 import asyncio
